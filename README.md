@@ -1,4 +1,3 @@
-Practice topics:
 
 - Using EJS (Embedded JavaScript templating)
 - Using EJS Interpolation Syntax <%=  %> and <%  %>
@@ -12,14 +11,9 @@ Practice topics:
 How to run it:
 - instal node.js
 - npm init -y (inside the folder)
-- npm install
-- npm i express
-- npm i ejs
+- npm install (to install all the dependencies at once)
 - download compiled CSS and JS https://getbootstrap.com/docs/5.1/getting-started/download/
 Unzip the files, copy bootstrap.min.css to your css folder and bootstrap.min.js to your JavaScript folder.
 - Download the compressed, production jQuery 3.6.0 https://jquery.com/download/ and put it in your JavaScript folder
-
-optional:
-- install EJS extension for VSCode
 
 
